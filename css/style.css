@@ -1,9 +1,4 @@
-/*--Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
---*/
-/*-- reset code --*/
+
 body{
 	padding:0;
 	margin:0;
@@ -234,7 +229,7 @@ form.search-container {
     font-weight: 500;
     width: 300px;
     border-radius: auto;
-    background: #24e8ff;
+    background: #284f88;
     color: white;
 }
 .search-box:focus + label .search-icon {
@@ -335,7 +330,7 @@ ul {
 	font-family: 'Ubuntu Condensed', sans-serif;
 }
 .slider-nav .slider-item-selected { 
-	background:#24e8ff;
+	background:#284f88;
 }
 .slider-nav .slider-item-selected p.sl{ 
 	color:#000;	
@@ -478,7 +473,7 @@ section.event .container-fluid {
 	-ms-transition:all 0.7s ease-in-out;
 }
 .row.event-agile2 {
-	background-color:#24e8ff;
+	background-color:#284f88;
 	margin:0;
 	transition:all 0.7s ease-in-out;
 	-webkit-transition:all 0.7s ease-in-out;
@@ -487,7 +482,7 @@ section.event .container-fluid {
 	-ms-transition:all 0.7s ease-in-out;
 }
 .row.event-agile1:hover {
-	background-color:#24e8ff;
+	background-color:#284f88;
 } 
 .row.event-agile1:hover  h3 {
 	color:#000;
@@ -688,8 +683,8 @@ section.team .view ul.social-icons2 li a i.fa {
 	-ms-transition:all 0.5s ease-in-out;
 }
 section.team .view ul.social-icons2 li a i.fa:hover {
-	background-color:#24E8FF;
-	border: 1px solid #24E8FF;
+	background-color:#284f88;
+	border: 1px solid #284f88;
 	color:#fff;
 }
 .view p.info {
@@ -834,7 +829,7 @@ section.work .gallery-grids{
 section.work .nav-tabs > li.active > a,section.work .nav-tabs > li.active > a:hover,section.work .nav-tabs > li.active > a:focus {
     color: #fff;
     cursor:pointer;
-    background-color:#24e8ff;
+    background-color:#284f88;
     border: none;
     border-bottom-color: transparent;
 }
@@ -862,7 +857,7 @@ section.work .nav-tabs > li > a:hover {
     border: none;
 }
 section.work .nav > li > a:hover,section.work .nav > li > a:focus {
-    background-color:#24e8ff;
+    background-color:#284f88;
     color: #fff;
 }
 
@@ -926,10 +921,10 @@ section.test .test-agile h4 span {
 	font-family: 'Raleway', sans-serif;
 }
 section.test .carousel-indicators li {
-    border: 1px solid #24e8ff;
+    border: 1px solid #284f88;
 }
 section.test .carousel-indicators .active {
-    background-color:#24e8ff;
+    background-color:#284f88;
 }
 section.test .carousel-indicators {
     bottom: -45px;
@@ -965,7 +960,7 @@ section.stats p.text-center {
 }
 .stats-grid i.fa {
 	font-size:17px;
-	color:#24e8ff;
+	color:#284f88;
 	padding-bottom:20px;
 }
 .stats-grid h4 {
@@ -1001,7 +996,7 @@ section.contact h3.head1:before {
 }
 section.contact h3.head1:after {
 	content:'';
-	background-color:#24e8ff;
+	background-color:#284f88;
 	height:3px;
 	width:10%;
 	left:0%;
@@ -1029,7 +1024,7 @@ section.contact h3.head2:before {
 }
 section.contact h3.head2:after {
 	content:'';
-	background-color:#24e8ff;
+	background-color:#284f88;
 	height:3px;
 	width:10%;
 	left:0%;
@@ -1176,7 +1171,7 @@ color: #525252 !important;
 	font-weight:300;
 }
 .footer p a {
-	color:#24e8ff;
+	color:#284f88;
 }
 .footer p a:hover {
 	color:red;
@@ -1197,7 +1192,7 @@ ul.bottom-links li a i.fa {
 	font-size:17px;
 } 
 ul.bottom-links li a i.fa:hover {
-	color:#24e8ff;
+	color:#284f88;
 }
 /*-- /footer section --*/
 .cd-top {
@@ -1605,7 +1600,7 @@ section.service {
     padding: 8px 0 0;
 }
 .navbar-inverse .navbar-toggle .icon-bar {
-    background-color: #24e8ff;
+    background-color: #284f88;
 }
 ul.nav.navbar-nav.link-effect {
     margin:0;
